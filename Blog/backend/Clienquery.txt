@@ -1,0 +1,7 @@
+query getAllusers{
+users{
+  id
+  firstName
+  lastName
+}
+}
